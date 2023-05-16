@@ -1,4 +1,4 @@
-org: trainwithshubham
+org: gajananbarure
 app: testing-end-to-end
 service: serverless-taskmaster-aws-app
 frameworkVersion: '3'
